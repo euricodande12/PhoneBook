@@ -150,7 +150,7 @@ Evaluates the **time complexity** of the linear search algorithm and provides pe
 
 ## **Group 70 - Members:**
 ###### Admiphy Sisamu - 223055190
-###### Eurico Dande - 223134902 (Group Leader)
+###### Eurico Dande (Group Leader) - 223134902 
 ###### Kondwani Kunkwenzu - 224093894
 ###### Martha Mathew - 224073966
 ###### Pascal Tandula - 224084038
